@@ -70,5 +70,5 @@ const checkWin=()=>{
 
 };
 newGame.addEventListener("click",resetGame);
-resetb.ad9dEventListener("click",resetGame);
+resetb.addEventListener("click",resetGame);
 resetGame();
